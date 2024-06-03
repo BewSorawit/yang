@@ -1,0 +1,9 @@
+pandas
+matplotlib
+openpyxl
+cdsapi
+utm==0.7.0
+netCDF4
+xlsxwriter
+Jinja2
+aiohttp
