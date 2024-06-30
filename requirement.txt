@@ -7,3 +7,5 @@ netCDF4
 xlsxwriter
 Jinja2
 aiohttp
+scikit-learn
+statsmodels
